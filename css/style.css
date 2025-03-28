@@ -27,7 +27,9 @@ body {
   body.offcanvas-menu:before {
     opacity: 1;
     visibility: visible; }
-
+.text-small {
+  font-size: .7rem;
+}
 .text-black {
   color: #000000 !important; }
 
